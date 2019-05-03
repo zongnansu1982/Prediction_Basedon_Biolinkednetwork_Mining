@@ -1,5 +1,13 @@
 package application.computation.predicting.negativeSelection;
 
+
+import weka.classifiers.bayes.NaiveBayes;
+import weka.classifiers.evaluation.Evaluation;
+import weka.core.DenseInstance;
+import weka.core.Instance;
+import weka.core.Instances;
+import weka.core.converters.ConverterUtils.DataSource;
+
 public class NaiveBayes_ns {
 
 	public static void main(String[] args) throws Exception {

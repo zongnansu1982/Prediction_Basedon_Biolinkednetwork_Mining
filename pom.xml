@@ -10,6 +10,7 @@
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-dependency-plugin</artifactId>
 				<executions>
+				
 					<execution>
 						<id>copy-dependencies</id>
 						<phase>prepare-package</phase>
@@ -65,9 +66,22 @@
 </repositories>
 	<dependencies>
 
-		<!-- https://mvnrepository.com/artifact/nz.ac.waikato.cms.weka/weka-stable -->
-		
-		<dependency>
+<!-- https://mvnrepository.com/artifact/org.semanticweb.yars/nxparser-parsers -->
+<dependency>
+    <groupId>org.semanticweb.yars</groupId>
+    <artifactId>nxparser-parsers</artifactId>
+    <version>2.3.3</version>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/nz.ac.waikato.cms.weka/weka-stable -->
+<dependency>
+    <groupId>nz.ac.waikato.cms.weka</groupId>
+    <artifactId>weka-stable</artifactId>
+    <version>3.8.3</version>
+</dependency>
+
+
+	    <dependency>
       <groupId>com.github.fracpete</groupId>
       <artifactId>fastrandomforest-weka-package</artifactId>
       <version>2016.12.7</version>
@@ -78,137 +92,60 @@
           <artifactId>weka-dev</artifactId>
         </exclusion>
       </exclusions>
-    </dependency>
-    
-		<dependency>
-			<groupId>nz.ac.waikato.cms.weka</groupId>
-			<artifactId>weka-stable</artifactId>
-			<version>3.6.14</version>
-		</dependency>
+    </dependency>	
 		
-	<!--
-	 	<dependency>
-            <groupId>ml.dmlc</groupId>
-            <artifactId>xgboost4j</artifactId>
-            <version>0.7</version>
-        </dependency>
-	--> 		
-	
-  		<dependency>
-   		 	<groupId>biz.k11i</groupId>
-    		<artifactId>xgboost-predictor</artifactId>
-    		<version>0.2.0</version>
-	  	</dependency>
-	
-	
-		<dependency>
-			<groupId>org.semanticweb.yars</groupId>
-			<artifactId>nxparser-commons</artifactId>
-			<version>2.2</version>
-		</dependency>
-
-		<!-- https://mvnrepository.com/artifact/org.apache.jena/jena-arq -->
-		<dependency>
-			<groupId>org.apache.jena</groupId>
-			<artifactId>jena-arq</artifactId>
-			<version>3.5.0</version>
-		</dependency>
-
-		<!-- https://mvnrepository.com/artifact/org.apache.jena/jena-core -->
-		<dependency>
-			<groupId>org.apache.jena</groupId>
-			<artifactId>jena-core</artifactId>
-			<version>3.5.0</version>
-		</dependency>
-
-		<!-- https://mvnrepository.com/artifact/org.openbel/org.openbel.framework.api -->
-		<dependency>
-			<groupId>org.openbel</groupId>
-			<artifactId>org.openbel.framework.api</artifactId>
-			<version>2.0.0</version>
-		</dependency>
-
-		<dependency>
-			<groupId>org.semanticweb.yars</groupId>
-			<artifactId>nxparser-parsers</artifactId>
-			<version>2.3.3</version>
-		</dependency>
-
-		<!-- https://mvnrepository.com/artifact/org.openbel/org.openbel.framework.core -->
-		<dependency>
-			<groupId>org.openbel</groupId>
-			<artifactId>org.openbel.framework.core</artifactId>
-			<version>2.0.0</version>
-		</dependency>
-
-		<!-- https://mvnrepository.com/artifact/org.openbel/org.openbel.bel -->
-		<dependency>
-			<groupId>org.openbel</groupId>
-			<artifactId>org.openbel.bel</artifactId>
-			<version>2.0.0</version>
-		</dependency>
-
-
-		<dependency>
-			<groupId>org.semanticweb.yars</groupId>
-			<artifactId>nxparser-model</artifactId>
-			<version>2.2</version>
-		</dependency>
-
-
-		<dependency>
-			<groupId>org.deeplearning4j</groupId>
-			<artifactId>deeplearning4j-nlp</artifactId>
-			<version>0.8.0</version>
-		</dependency>
-		<dependency>
-			<groupId>org.nd4j</groupId>
-			<artifactId>nd4j-native</artifactId>
-			<version>0.8.0</version>
-		</dependency>
-		<dependency>
-			<groupId>org.deeplearning4j</groupId>
-			<artifactId>deeplearning4j-graph</artifactId>
-			<version>0.8.0</version>
-		</dependency>
-
-		<dependency>
-			<groupId>org.apache.commons</groupId>
-			<artifactId>commons-math3</artifactId>
-			<version>3.3</version>
-		</dependency>
-
-		<dependency>
-			<groupId>colt</groupId>
-			<artifactId>colt</artifactId>
-			<version>1.2.0</version>
-		</dependency>
-	
-	
-	<dependency>
-    <groupId>org.apache.commons</groupId>
-    <artifactId>commons-csv</artifactId>
-    <version>1.4</version>
+		<!-- https://mvnrepository.com/artifact/de.bwaldvogel/liblinear -->
+<dependency>
+    <groupId>de.bwaldvogel</groupId>
+    <artifactId>liblinear</artifactId>
+    <version>2.21</version>
+</dependency>
+		
+		<!-- https://mvnrepository.com/artifact/nz.ac.waikato.cms.weka/LibLINEAR -->
+<dependency>
+    <groupId>nz.ac.waikato.cms.weka</groupId>
+    <artifactId>LibLINEAR</artifactId>
+    <version>1.9.7</version>
+</dependency>
+		
+		<!-- https://mvnrepository.com/artifact/tw.edu.ntu.csie/libsvm -->
+<dependency>
+    <groupId>tw.edu.ntu.csie</groupId>
+    <artifactId>libsvm</artifactId>
+    <version>3.23</version>
+</dependency>
+		
+		
+		<!-- https://mvnrepository.com/artifact/nz.ac.waikato.cms.weka/LibSVM -->
+<dependency>
+    <groupId>nz.ac.waikato.cms.weka</groupId>
+    <artifactId>LibSVM</artifactId>
+    <version>1.0.10</version>
+</dependency>
+		
+		<!-- https://mvnrepository.com/artifact/org.deeplearning4j/deeplearning4j-graph -->
+<dependency>
+    <groupId>org.deeplearning4j</groupId>
+    <artifactId>deeplearning4j-graph</artifactId>
+    <version>0.9.1</version>
 </dependency>
 
+	<dependency>
+      <groupId>collective</groupId>  
+       <artifactId>collective-classification</artifactId>  
+       <version>1.0</version> 
+      <scope>system</scope>
+      <systemPath>${project.basedir}/lib/weka/collective-classification-2015.2.27.jar</systemPath>
+</dependency>
+	
+		<!-- https://mvnrepository.com/artifact/colt/colt -->
+<dependency>
+    <groupId>colt</groupId>
+    <artifactId>colt</artifactId>
+    <version>1.2.0</version>
+</dependency>
+		
 
-		<dependency>
-			<groupId>com.edwardraff</groupId>
-			<artifactId>JSAT</artifactId>
-			<version>0.0.9</version>
-		</dependency>
-		<dependency>
-            <groupId>com.googlecode.json-simple</groupId>
-            <artifactId>json-simple</artifactId>
-            <version>1.1.1</version>
-        </dependency>
-
-		<!-- https://mvnrepository.com/artifact/net.sourceforge.argparse4j/argparse4j -->
-		<dependency>
-			<groupId>net.sourceforge.argparse4j</groupId>
-			<artifactId>argparse4j</artifactId>
-			<version>0.7.0</version>
-		</dependency>
 
 	</dependencies>
 </project>

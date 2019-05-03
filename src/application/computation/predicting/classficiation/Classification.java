@@ -16,9 +16,6 @@ import de.bwaldvogel.liblinear.SolverType;
 import hr.irb.fastRandomForest.FastRandomForest;
 import weka.classifiers.Classifier;
 
-import de.bwaldvogel.liblinear.SolverType;
-import de.bwaldvogel.*;
-
 import weka.classifiers.functions.LibLINEAR;
 import weka.classifiers.functions.LibSVM;
 import weka.classifiers.trees.J48;

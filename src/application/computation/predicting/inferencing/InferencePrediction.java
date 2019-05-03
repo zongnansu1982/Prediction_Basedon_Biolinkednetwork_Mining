@@ -133,7 +133,52 @@ public class InferencePrediction {
 		return bean;
 	}
 	
-	
+	/**
+	 * batch 20190503
+	 * @param modelfile
+	 * @param idxfile
+	 * @param datafile
+	 * @param pairs
+	 * @param type
+	 * @return
+	 * @throws Exception
+	 */
+public HashMap<String,BSIBean> network_inferences(String modelfile, String idxfile, String datafile, HashSet<String> pairs, String type) throws Exception {
+		
+		
+		long seed=1024;
+		HashMap<String,BSIBean> map=new HashMap<>();
+		HashSet<String> allTarget = getAllTarget(datafile);
+		HashSet<String> allDrug = getAllDrug(datafile);
+
+		HashMap<String, HashSet<String>> drugToTargetassociations = getDrugTargetAssociations(datafile);
+		HashMap<String, HashSet<String>> TargetToDrugassociations = getTargetDrugAssociations(datafile);
+		
+		
+		FastTargetInferencing predict2 = new FastTargetInferencing(modelfile, idxfile);
+
+		FastDrugInferencing predict3 = new FastDrugInferencing(modelfile, idxfile);
+		
+		for(String pair:pairs){
+			String[] element=pair.split(" ");
+			BSIBean bean =new BSIBean();
+			
+			HashMap<String, Double> results2 = predict2.predictBySimilarDrug(element[0],element[1],
+					drugToTargetassociations, allDrug,type);
+
+			HashMap<String, Double> results3 = predict3.predictBySimilarTarget(element[1], element[0],
+					TargetToDrugassociations, allTarget,type);
+			
+			bean.setDbsi(results2);
+			bean.setTbsi(results3);
+			map.put(pair, bean);
+		}
+		
+		
+		
+		
+		return map;
+	}
 	
 	
 	public HashMap<String, HashSet<String>> getAllPotentials(HashMap<String, HashSet<String>> gold,

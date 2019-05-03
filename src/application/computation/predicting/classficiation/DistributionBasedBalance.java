@@ -2,11 +2,24 @@ package application.computation.predicting.classficiation;
 
 import java.util.Vector;
 
+import weka.core.Capabilities;
+import weka.core.Capabilities.Capability;
+import weka.core.DenseInstance;
+import weka.core.Instance;
+import weka.core.Instances;
+import weka.core.Option;
 import weka.core.OptionHandler;
 import weka.core.Range;
+import weka.core.SelectedTag;
+import weka.core.Tag;
+import weka.core.TechnicalInformation;
+import weka.core.TechnicalInformation.Field;
+import weka.core.TechnicalInformation.Type;
 import weka.core.TechnicalInformationHandler;
+import weka.core.Utils;
 import weka.filters.Filter;
 import weka.filters.SupervisedFilter;
+import weka.filters.unsupervised.instance.RemoveWithValues;
 
 import java.util.Enumeration;
 import java.util.Random;

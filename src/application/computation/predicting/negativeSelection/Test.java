@@ -1,6 +1,10 @@
 package application.computation.predicting.negativeSelection;
 
 import weka.classifiers.CollectiveEvaluation;
+import weka.classifiers.bayes.NaiveBayes;
+import weka.classifiers.evaluation.Evaluation;
+import weka.core.Instances;
+import weka.core.converters.ConverterUtils.DataSource;
 
 public class Test {
 

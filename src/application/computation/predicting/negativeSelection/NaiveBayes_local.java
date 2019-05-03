@@ -1,5 +1,21 @@
 package application.computation.predicting.negativeSelection;
 
+import weka.classifiers.AbstractClassifier;
+import weka.classifiers.Classifier;
+import weka.core.Attribute;
+import weka.core.Capabilities;
+import weka.core.Capabilities.Capability;
+import weka.core.DenseInstance;
+import weka.core.Instance;
+import weka.core.Instances;
+
+
+
+import weka.core.Attribute;
+import weka.core.Instance;
+import weka.core.Instances;
+
+
 public class NaiveBayes_local extends AbstractClassifier implements Classifier {
 	
 	private Double[] posteriors;

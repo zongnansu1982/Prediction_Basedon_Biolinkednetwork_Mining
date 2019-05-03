@@ -32,6 +32,9 @@ public class Prediction {
 		
 		Prediction prediction=new Prediction();
 		prediction.trainModel();
+		
+		prediction.predict("<http://bio2rdf.org/drugbank:DB00377>", "<http://bio2rdf.org/drugbank:BE0000557>");
+		
 		prediction.predict("<http://bio2rdf.org/drugbank:DB00377>", "<http://bio2rdf.org/drugbank:BE0000557>");
 	}
 	

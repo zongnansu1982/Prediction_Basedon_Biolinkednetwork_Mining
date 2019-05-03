@@ -42,6 +42,8 @@ import application.computation.predicting.negativeSelection.PU_ns;
 import application.computation.util.BinaryOperator;
 import weka.classifiers.functions.LibSVM;
 import weka.core.Instance;
+import weka.core.Instances;
+import weka.core.converters.ConverterUtils.DataSource;
 
 import java.util.Random;
 import java.util.TreeMap;

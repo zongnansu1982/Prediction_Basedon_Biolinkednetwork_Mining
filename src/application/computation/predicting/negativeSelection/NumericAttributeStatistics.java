@@ -1,5 +1,8 @@
 package application.computation.predicting.negativeSelection;
 
+import weka.core.Attribute;
+import weka.core.Instances;
+
 import java.util.Arrays;
 import java.util.stream.IntStream;
 

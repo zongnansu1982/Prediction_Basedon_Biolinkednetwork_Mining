@@ -1,9 +1,16 @@
 package application.computation.predicting.negativeSelection;
 
 import hr.irb.fastRandomForest.FastRandomForest;
+import weka.classifiers.Classifier;
+import weka.classifiers.bayes.NaiveBayes;
 import weka.classifiers.collective.meta.YATSI;
 import weka.classifiers.functions.LibLINEAR;
 import weka.classifiers.functions.LibSVM;
+import weka.classifiers.trees.J48;
+import weka.core.DenseInstance;
+import weka.core.Instance;
+import weka.core.Instances;
+import weka.core.SelectedTag;
 
 public class PU_ns {
 

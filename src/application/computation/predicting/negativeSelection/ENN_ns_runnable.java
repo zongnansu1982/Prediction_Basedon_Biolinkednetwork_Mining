@@ -2,6 +2,7 @@ package application.computation.predicting.negativeSelection;
 
 import java.util.HashMap;
 
+import weka.core.Instance;
 import weka.core.Instances;
 import weka.core.neighboursearch.NearestNeighbourSearch;
 
