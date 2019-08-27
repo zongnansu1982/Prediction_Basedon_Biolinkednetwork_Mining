@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<graph id='52' label='62' directed='1' cy:documentVersion='3.0' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:cy='http://www.cytoscape.org' xmlns='http://www.cs.rpi.edu/XGMML'>
+  <node label='drugbank:DB03041' id='0'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='83' y='66' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB03041'/>
+  </node>
+  <node label='drugbank:DB01861' id='1'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='43' y='26' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01861'/>
+  </node>
+  <node label='drugbank:DB04395' id='2'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='5' y='98' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB04395'/>
+  </node>
+  <node label='drugbank:DB02196' id='3'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='147' y='32' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB02196'/>
+  </node>
+  <node label='drugbank:DB03095' id='4'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='18' y='164' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB03095'/>
+  </node>
+  <node label='GALACTOSEMIA [omim:230400]' id='5'>
+    <att name='entity type' value='Disease' />
+    <graphics type='hexagon' fill='255,255,0' x='148' y='23' h='20.0' w='80.0' cy:nodeLabel='GALACTOSEMIA [omim:230400]'/>
+  </node>
+  <node label='drugbank:DB03397' id='6'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='117' y='158' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB03397'/>
+  </node>
+  <node label='drugbank:BE0003295' id='7'>
+    <att name='entity type' value='Target' />
+    <graphics type='rectangle' fill='3,169,244' x='120' y='196' h='20.0' w='80.0' cy:nodeLabel='drugbank:BE0003295'/>
+  </node>
+  <node label='drugbank:DB03501' id='8'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='178' y='143' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB03501'/>
+  </node>
+  <node label='drugbank:BE0001521' id='9'>
+    <att name='entity type' value='Target' />
+    <graphics type='rectangle' fill='3,169,244' x='11' y='116' h='20.0' w='80.0' cy:nodeLabel='drugbank:BE0001521'/>
+  </node>
+  <node label='drugbank:DB04355' id='10'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='60' y='26' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB04355'/>
+  </node>
+  <edge label='GALACTOSEMIA [omim:230400] (MultiPartiteNetwork_vocabulary:Disease-Associated-Target) drugbank:BE0001521' source='5' target='9'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Disease-Associated-Target' />
+    <graphics width='1' fill='0,0,0' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB02196 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0001521' source='3' target='9'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB03397 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0001521' source='6' target='9'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB04395 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003295' source='2' target='7'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB03095 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0001521' source='4' target='9'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB04355 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0001521' source='10' target='9'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB03501 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0001521' source='8' target='9'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01861 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0001521' source='1' target='9'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='GALACTOSEMIA [omim:230400] (MultiPartiteNetwork_vocabulary:Disease-Associated-Target) drugbank:BE0003295' source='5' target='7'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Disease-Associated-Target' />
+    <graphics width='1' fill='0,0,0' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB03041 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0001521' source='0' target='9'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='2' fill='255,0,0' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+</graph>

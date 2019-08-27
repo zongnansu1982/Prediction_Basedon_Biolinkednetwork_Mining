@@ -1,0 +1,2475 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<graph id='52' label='62' directed='1' cy:documentVersion='3.0' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:cy='http://www.cytoscape.org' xmlns='http://www.cs.rpi.edu/XGMML'>
+  <node label='drugbank:DB00246' id='0'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='94' y='132' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00246'/>
+  </node>
+  <node label='drugbank:DB00476' id='1'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='91' y='140' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00476'/>
+  </node>
+  <node label='drugbank:DB00331' id='2'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='77' y='33' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00331'/>
+  </node>
+  <node label='drugbank:DB00682' id='3'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='133' y='114' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00682'/>
+  </node>
+  <node label='drugbank:DB01076' id='4'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='62' y='112' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01076'/>
+  </node>
+  <node label='drugbank:DB00193' id='5'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='37' y='68' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00193'/>
+  </node>
+  <node label='drugbank:DB05688' id='6'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='68' y='20' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB05688'/>
+  </node>
+  <node label='drugbank:DB01105' id='7'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='47' y='93' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01105'/>
+  </node>
+  <node label='drugbank:DB05422' id='8'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='129' y='11' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB05422'/>
+  </node>
+  <node label='drugbank:DB01577' id='9'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='133' y='6' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01577'/>
+  </node>
+  <node label='drugbank:DB01239' id='10'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='55' y='32' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01239'/>
+  </node>
+  <node label='drugbank:DB00736' id='11'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='73' y='60' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00736'/>
+  </node>
+  <node label='drugbank:DB00409' id='12'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='109' y='136' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00409'/>
+  </node>
+  <node label='drugbank:DB06288' id='13'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='189' y='13' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB06288'/>
+  </node>
+  <node label='drugbank:DB00477' id='14'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='82' y='92' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00477'/>
+  </node>
+  <node label='drugbank:DB00574' id='15'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='2' y='138' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00574'/>
+  </node>
+  <node label='drugbank:DB00247' id='16'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='83' y='55' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00247'/>
+  </node>
+  <node label='drugbank:DB00344' id='17'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='15' y='117' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00344'/>
+  </node>
+  <node label='drugbank:DB00598' id='18'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='142' y='7' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00598'/>
+  </node>
+  <node label='drugbank:DB01392' id='19'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='150' y='161' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01392'/>
+  </node>
+  <node label='drugbank:DB01174' id='20'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='12' y='118' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01174'/>
+  </node>
+  <node label='drugbank:DB09304' id='21'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='148' y='28' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB09304'/>
+  </node>
+  <node label='drugbank:DB01186' id='22'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='196' y='75' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01186'/>
+  </node>
+  <node label='drugbank:DB00182' id='23'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='84' y='29' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00182'/>
+  </node>
+  <node label='drugbank:DB05079' id='24'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='106' y='56' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB05079'/>
+  </node>
+  <node label='drugbank:DB08810' id='25'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='47' y='11' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB08810'/>
+  </node>
+  <node label='drugbank:DB06209' id='26'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='197' y='190' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB06209'/>
+  </node>
+  <node label='drugbank:DB00604' id='27'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='110' y='153' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00604'/>
+  </node>
+  <node label='drugbank:DB04832' id='28'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='188' y='75' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB04832'/>
+  </node>
+  <node label='drugbank:DB00248' id='29'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='81' y='149' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00248'/>
+  </node>
+  <node label='drugbank:DB06144' id='30'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='194' y='165' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB06144'/>
+  </node>
+  <node label='drugbank:DB00696' id='31'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='68' y='134' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00696'/>
+  </node>
+  <node label='drugbank:DB00321' id='32'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='96' y='92' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00321'/>
+  </node>
+  <node label='drugbank:DB04836' id='33'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='54' y='48' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB04836'/>
+  </node>
+  <node label='drugbank:DB00454' id='34'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='101' y='181' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00454'/>
+  </node>
+  <node label='drugbank:DB00333' id='35'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='162' y='31' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00333'/>
+  </node>
+  <node label='drugbank:DB01151' id='36'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='187' y='30' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01151'/>
+  </node>
+  <node label='drugbank:DB01175' id='37'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='22' y='39' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01175'/>
+  </node>
+  <node label='drugbank:DB00714' id='38'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='184' y='177' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00714'/>
+  </node>
+  <node label='drugbank:DB00726' id='39'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='138' y='161' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00726'/>
+  </node>
+  <node label='drugbank:DB00811' id='40'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='158' y='197' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00811'/>
+  </node>
+  <node label='drugbank:DB00128' id='41'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='103' y='48' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00128'/>
+  </node>
+  <node label='drugbank:DB00334' id='42'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='109' y='148' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00334'/>
+  </node>
+  <node label='drugbank:DB00794' id='43'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='137' y='18' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00794'/>
+  </node>
+  <node label='drugbank:DB00564' id='44'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='2' y='22' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00564'/>
+  </node>
+  <node label='drugbank:BE0003536' id='45'>
+    <att name='entity type' value='Target' />
+    <graphics type='rectangle' fill='3,169,244' x='137' y='163' h='20.0' w='80.0' cy:nodeLabel='drugbank:BE0003536'/>
+  </node>
+  <node label='drugbank:DB00213' id='46'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='129' y='189' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00213'/>
+  </node>
+  <node label='drugbank:DB05227' id='47'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='107' y='143' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB05227'/>
+  </node>
+  <node label='drugbank:DB00540' id='48'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='76' y='80' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00540'/>
+  </node>
+  <node label='drugbank:DB00661' id='49'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='184' y='161' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00661'/>
+  </node>
+  <node label='drugbank:DB00196' id='50'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='70' y='61' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00196'/>
+  </node>
+  <node label='drugbank:DB00184' id='51'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='74' y='150' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00184'/>
+  </node>
+  <node label='drugbank:DB01079' id='52'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='190' y='178' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01079'/>
+  </node>
+  <node label='drugbank:DB05687' id='53'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='62' y='7' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB05687'/>
+  </node>
+  <node label='drugbank:DB00933' id='54'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='24' y='42' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00933'/>
+  </node>
+  <node label='drugbank:DB00715' id='55'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='176' y='184' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00715'/>
+  </node>
+  <node label='drugbank:DB04115' id='56'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='25' y='188' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB04115'/>
+  </node>
+  <node label='drugbank:DB00589' id='57'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='183' y='15' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00589'/>
+  </node>
+  <node label='drugbank:DB00468' id='58'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='29' y='144' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00468'/>
+  </node>
+  <node label='drugbank:DB04599' id='59'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='102' y='20' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB04599'/>
+  </node>
+  <node label='drugbank:DB00238' id='60'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='41' y='142' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00238'/>
+  </node>
+  <node label='drugbank:DB00945' id='61'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='121' y='153' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00945'/>
+  </node>
+  <node label='drugbank:DB00852' id='62'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='162' y='77' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00852'/>
+  </node>
+  <node label='drugbank:DB00363' id='63'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='159' y='63' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00363'/>
+  </node>
+  <node label='drugbank:DB01072' id='64'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='11' y='29' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01072'/>
+  </node>
+  <node label='drugbank:DB00472' id='65'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='195' y='3' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00472'/>
+  </node>
+  <node label='drugbank:DB01355' id='66'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='178' y='91' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01355'/>
+  </node>
+  <node label='drugbank:DB01149' id='67'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='102' y='158' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01149'/>
+  </node>
+  <node label='drugbank:DB06204' id='68'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='109' y='12' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB06204'/>
+  </node>
+  <node label='drugbank:DB06216' id='69'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='94' y='40' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB06216'/>
+  </node>
+  <node label='drugbank:DB01488' id='70'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='19' y='93' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01488'/>
+  </node>
+  <node label='drugbank:DB01452' id='71'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='112' y='99' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01452'/>
+  </node>
+  <node label='drugbank:DB09225' id='72'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='80' y='68' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB09225'/>
+  </node>
+  <node label='drugbank:DB09128' id='73'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='75' y='138' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB09128'/>
+  </node>
+  <node label='drugbank:DB00502' id='74'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='164' y='110' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00502'/>
+  </node>
+  <node label='drugbank:DB04889' id='75'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='40' y='42' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB04889'/>
+  </node>
+  <node label='drugbank:DB00623' id='76'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='35' y='154' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00623'/>
+  </node>
+  <node label='drugbank:DB00514' id='77'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='81' y='75' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00514'/>
+  </node>
+  <node label='drugbank:DB00635' id='78'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='111' y='100' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00635'/>
+  </node>
+  <node label='drugbank:DB00582' id='79'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='21' y='151' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00582'/>
+  </node>
+  <node label='drugbank:DB01097' id='80'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='183' y='135' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01097'/>
+  </node>
+  <node label='drugbank:DB01114' id='81'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='137' y='130' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01114'/>
+  </node>
+  <node label='drugbank:DB01356' id='82'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='164' y='136' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01356'/>
+  </node>
+  <node label='drugbank:DB00907' id='83'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='129' y='103' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00907'/>
+  </node>
+  <node label='drugbank:DB00745' id='84'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='178' y='8' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00745'/>
+  </node>
+  <node label='drugbank:DB00268' id='85'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='95' y='52' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00268'/>
+  </node>
+  <node label='drugbank:DB00571' id='86'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='92' y='22' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00571'/>
+  </node>
+  <node label='drugbank:DB00951' id='87'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='124' y='198' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00951'/>
+  </node>
+  <node label='drugbank:DB01171' id='88'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='170' y='163' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01171'/>
+  </node>
+  <node label='drugbank:DB01050' id='89'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='106' y='185' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01050'/>
+  </node>
+  <node label='drugbank:DB00220' id='90'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='6' y='79' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00220'/>
+  </node>
+  <node label='drugbank:DB01098' id='91'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='8' y='136' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01098'/>
+  </node>
+  <node label='drugbank:DB01200' id='92'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='83' y='55' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01200'/>
+  </node>
+  <node label='drugbank:DB00191' id='93'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='154' y='118' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00191'/>
+  </node>
+  <node label='drugbank:DB01224' id='94'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='117' y='18' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01224'/>
+  </node>
+  <node label='drugbank:DB01006' id='95'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='67' y='139' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01006'/>
+  </node>
+  <node label='drugbank:DB00908' id='96'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='91' y='133' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00908'/>
+  </node>
+  <node label='drugbank:DB08865' id='97'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='28' y='149' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB08865'/>
+  </node>
+  <node label='drugbank:DB01454' id='98'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='193' y='164' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01454'/>
+  </node>
+  <node label='drugbank:DB01442' id='99'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='4' y='44' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01442'/>
+  </node>
+  <node label='drugbank:DB09223' id='100'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='160' y='191' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB09223'/>
+  </node>
+  <node label='drugbank:DB00988' id='101'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='73' y='168' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00988'/>
+  </node>
+  <node label='drugbank:DB00758' id='102'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='13' y='11' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00758'/>
+  </node>
+  <node label='drugbank:DB00843' id='103'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='61' y='114' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00843'/>
+  </node>
+  <node label='drugbank:DB00625' id='104'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='10' y='109' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00625'/>
+  </node>
+  <node label='drugbank:DB00734' id='105'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='92' y='178' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00734'/>
+  </node>
+  <node label='drugbank:DB00330' id='106'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='91' y='90' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00330'/>
+  </node>
+  <node label='drugbank:DB04908' id='107'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='196' y='126' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB04908'/>
+  </node>
+  <node label='drugbank:DB01618' id='108'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='125' y='138' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01618'/>
+  </node>
+  <node label='drugbank:DB08918' id='109'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='132' y='136' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB08918'/>
+  </node>
+  <node label='drugbank:DB01104' id='110'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='182' y='56' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01104'/>
+  </node>
+  <node label='drugbank:DB01238' id='111'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='180' y='12' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01238'/>
+  </node>
+  <node label='drugbank:DB01008' id='112'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='5' y='18' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01008'/>
+  </node>
+  <node label='drugbank:DB01129' id='113'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='120' y='178' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01129'/>
+  </node>
+  <node label='drugbank:DB01576' id='114'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='157' y='24' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01576'/>
+  </node>
+  <node label='drugbank:DB09016' id='115'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='18' y='55' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB09016'/>
+  </node>
+  <node label='drugbank:DB00977' id='116'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='131' y='139' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00977'/>
+  </node>
+  <node label='drugbank:DB00408' id='117'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='183' y='76' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00408'/>
+  </node>
+  <node label='drugbank:DB06077' id='118'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='140' y='35' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB06077'/>
+  </node>
+  <node label='drugbank:DB04842' id='119'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='152' y='133' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB04842'/>
+  </node>
+  <node label='drugbank:DB05026' id='120'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='112' y='19' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB05026'/>
+  </node>
+  <node label='drugbank:DB00751' id='121'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='138' y='140' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00751'/>
+  </node>
+  <node label='drugbank:DB00395' id='122'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='109' y='176' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00395'/>
+  </node>
+  <node label='drugbank:DB01242' id='123'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='52' y='108' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01242'/>
+  </node>
+  <node label='drugbank:DB01363' id='124'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='156' y='41' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01363'/>
+  </node>
+  <node label='drugbank:DB01254' id='125'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='174' y='127' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01254'/>
+  </node>
+  <node label='drugbank:DB01036' id='126'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='28' y='0' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01036'/>
+  </node>
+  <node label='drugbank:DB01623' id='127'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='78' y='26' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01623'/>
+  </node>
+  <node label='drugbank:DB01622' id='128'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='12' y='167' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01622'/>
+  </node>
+  <node label='drugbank:DB06701' id='129'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='62' y='121' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB06701'/>
+  </node>
+  <node label='drugbank:DB00829' id='130'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='150' y='189' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00829'/>
+  </node>
+  <node label='drugbank:BE0004957' id='131'>
+    <att name='entity type' value='Target' />
+    <graphics type='rectangle' fill='3,169,244' x='156' y='124' h='20.0' w='80.0' cy:nodeLabel='drugbank:BE0004957'/>
+  </node>
+  <node label='drugbank:DB01472' id='132'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='100' y='138' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01472'/>
+  </node>
+  <node label='drugbank:DB00805' id='133'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='22' y='183' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00805'/>
+  </node>
+  <node label='drugbank:DB00776' id='134'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='43' y='46' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00776'/>
+  </node>
+  <node label='drugbank:DB00328' id='135'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='124' y='85' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00328'/>
+  </node>
+  <node label='drugbank:DB00413' id='136'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='79' y='13' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00413'/>
+  </node>
+  <node label='drugbank:DB06684' id='137'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='49' y='120' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB06684'/>
+  </node>
+  <node label='drugbank:DB00679' id='138'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='134' y='185' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00679'/>
+  </node>
+  <node label='drugbank:DB00752' id='139'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='136' y='191' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00752'/>
+  </node>
+  <node label='drugbank:DB00396' id='140'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='5' y='195' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00396'/>
+  </node>
+  <node label='drugbank:DB00142' id='141'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='62' y='70' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00142'/>
+  </node>
+  <node label='drugbank:BE0001054' id='142'>
+    <att name='entity type' value='Target' />
+    <graphics type='rectangle' fill='3,169,244' x='79' y='80' h='20.0' w='80.0' cy:nodeLabel='drugbank:BE0001054'/>
+  </node>
+  <node label='drugbank:DB01267' id='143'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='184' y='199' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01267'/>
+  </node>
+  <node label='drugbank:DB01624' id='144'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='73' y='15' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01624'/>
+  </node>
+  <node label='drugbank:DB00927' id='145'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='35' y='187' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00927'/>
+  </node>
+  <node label='drugbank:DB01418' id='146'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='116' y='121' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01418'/>
+  </node>
+  <node label='drugbank:DB04896' id='147'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='61' y='140' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB04896'/>
+  </node>
+  <node label='drugbank:BE0004881' id='148'>
+    <att name='entity type' value='Target' />
+    <graphics type='rectangle' fill='3,169,244' x='114' y='80' h='20.0' w='80.0' cy:nodeLabel='drugbank:BE0004881'/>
+  </node>
+  <node label='drugbank:DB04884' id='149'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='5' y='69' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB04884'/>
+  </node>
+  <node label='drugbank:DB00208' id='150'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='25' y='112' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00208'/>
+  </node>
+  <node label='drugbank:DB00656' id='151'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='151' y='20' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00656'/>
+  </node>
+  <node label='drugbank:DB00777' id='152'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='198' y='126' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00777'/>
+  </node>
+  <node label='drugbank:DB00898' id='153'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='135' y='169' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00898'/>
+  </node>
+  <node label='drugbank:DB01191' id='154'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='19' y='109' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01191'/>
+  </node>
+  <node label='drugbank:DB00264' id='155'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='155' y='160' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00264'/>
+  </node>
+  <node label='drugbank:DB00022' id='156'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='68' y='82' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00022'/>
+  </node>
+  <node label='drugbank:DB00482' id='157'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='169' y='88' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00482'/>
+  </node>
+  <node label='drugbank:DB00252' id='158'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='41' y='69' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00252'/>
+  </node>
+  <node label='drugbank:DB08927' id='159'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='17' y='78' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB08927'/>
+  </node>
+  <node label='drugbank:DB01026' id='160'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='122' y='155' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01026'/>
+  </node>
+  <node label='drugbank:DB05743' id='161'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='137' y='150' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB05743'/>
+  </node>
+  <node label='drugbank:DB06016' id='162'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='78' y='163' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB06016'/>
+  </node>
+  <node label='drugbank:DB06626' id='163'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='125' y='25' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB06626'/>
+  </node>
+  <node label='OBSESSIVE-COMPULSIVE DISORDER; OCD [omim:164230]' id='164'>
+    <att name='entity type' value='Disease' />
+    <graphics type='hexagon' fill='255,255,0' x='47' y='6' h='20.0' w='80.0' cy:nodeLabel='OBSESSIVE-COMPULSIVE DISORDER; OCD [omim:164230]'/>
+  </node>
+  <node label='drugbank:DB00904' id='165'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='168' y='68' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00904'/>
+  </node>
+  <node label='drugbank:DB00875' id='166'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='64' y='144' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00875'/>
+  </node>
+  <node label='drugbank:DB00669' id='167'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='133' y='103' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00669'/>
+  </node>
+  <node label='drugbank:DB00289' id='168'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='14' y='129' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00289'/>
+  </node>
+  <node label='drugbank:DB01095' id='169'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='61' y='88' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01095'/>
+  </node>
+  <node label='drugbank:BE0000749' id='170'>
+    <att name='entity type' value='Target' />
+    <graphics type='rectangle' fill='3,169,244' x='76' y='40' h='20.0' w='80.0' cy:nodeLabel='drugbank:BE0000749'/>
+  </node>
+  <node label='drugbank:DB00960' id='171'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='84' y='56' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00960'/>
+  </node>
+  <node label='drugbank:DB01221' id='172'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='38' y='163' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01221'/>
+  </node>
+  <node label='drugbank:DB01136' id='173'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='17' y='122' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01136'/>
+  </node>
+  <node label='drugbank:DB01124' id='174'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='15' y='158' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01124'/>
+  </node>
+  <node label='drugbank:DB01614' id='175'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='17' y='65' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01614'/>
+  </node>
+  <node label='drugbank:DB06700' id='176'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='177' y='91' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB06700'/>
+  </node>
+  <node label='drugbank:DB00997' id='177'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='190' y='45' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00997'/>
+  </node>
+  <node label='drugbank:DB00864' id='178'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='108' y='74' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00864'/>
+  </node>
+  <node label='drugbank:DB00501' id='179'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='77' y='25' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00501'/>
+  </node>
+  <node label='drugbank:DB00444' id='180'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='32' y='167' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00444'/>
+  </node>
+  <node label='drugbank:DB00420' id='181'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='22' y='151' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00420'/>
+  </node>
+  <node label='drugbank:DB00197' id='182'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='140' y='188' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00197'/>
+  </node>
+  <node label='drugbank:DB01274' id='183'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='194' y='52' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01274'/>
+  </node>
+  <node label='drugbank:DB01395' id='184'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='164' y='194' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01395'/>
+  </node>
+  <node label='drugbank:DB01032' id='185'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='28' y='40' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01032'/>
+  </node>
+  <node label='drugbank:DB00619' id='186'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='157' y='187' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00619'/>
+  </node>
+  <node label='drugbank:DB08815' id='187'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='156' y='94' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB08815'/>
+  </node>
+  <node label='drugbank:DB00849' id='188'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='9' y='71' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00849'/>
+  </node>
+  <node label='drugbank:DB00227' id='189'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='44' y='136' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00227'/>
+  </node>
+  <node label='drugbank:DB00215' id='190'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='128' y='120' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00215'/>
+  </node>
+  <node label='drugbank:DB00934' id='191'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='32' y='126' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00934'/>
+  </node>
+  <node label='drugbank:DB05047' id='192'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='182' y='50' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB05047'/>
+  </node>
+  <node label='drugbank:DB04946' id='193'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='82' y='33' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB04946'/>
+  </node>
+  <node label='drugbank:DB00675' id='194'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='162' y='179' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00675'/>
+  </node>
+  <node label='drugbank:DB01142' id='195'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='31' y='181' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01142'/>
+  </node>
+  <node label='drugbank:DB01166' id='196'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='14' y='97' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01166'/>
+  </node>
+  <node label='drugbank:DB01045' id='197'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='195' y='183' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01045'/>
+  </node>
+  <node label='drugbank:DB01069' id='198'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='96' y='196' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01069'/>
+  </node>
+  <node label='drugbank:BE0000451' id='199'>
+    <att name='entity type' value='Target' />
+    <graphics type='rectangle' fill='3,169,244' x='190' y='150' h='20.0' w='80.0' cy:nodeLabel='drugbank:BE0000451'/>
+  </node>
+  <node label='drugbank:DB06148' id='200'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='41' y='96' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB06148'/>
+  </node>
+  <node label='drugbank:DB09167' id='201'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='21' y='67' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB09167'/>
+  </node>
+  <node label='drugbank:DB00717' id='202'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='177' y='21' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00717'/>
+  </node>
+  <node label='drugbank:DB00349' id='203'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='41' y='145' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00349'/>
+  </node>
+  <node label='drugbank:DB00579' id='204'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='146' y='99' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00579'/>
+  </node>
+  <node label='drugbank:DB00446' id='205'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='52' y='199' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00446'/>
+  </node>
+  <node label='drugbank:DB00458' id='206'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='161' y='59' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00458'/>
+  </node>
+  <node label='drugbank:DB00531' id='207'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='39' y='163' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00531'/>
+  </node>
+  <node label='drugbank:DB00422' id='208'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='187' y='167' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00422'/>
+  </node>
+  <node label='drugbank:DB00434' id='209'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='98' y='136' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00434'/>
+  </node>
+  <node label='drugbank:DB00313' id='210'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='182' y='184' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00313'/>
+  </node>
+  <node label='drugbank:DB00543' id='211'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='107' y='189' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00543'/>
+  </node>
+  <node label='drugbank:DB05492' id='212'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='59' y='108' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB05492'/>
+  </node>
+  <node label='drugbank:DB00175' id='213'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='102' y='118' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00175'/>
+  </node>
+  <node label='drugbank:DB01131' id='214'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='24' y='52' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01131'/>
+  </node>
+  <node label='drugbank:DB01403' id='215'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='173' y='105' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01403'/>
+  </node>
+  <node label='drugbank:DB00338' id='216'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='115' y='68' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00338'/>
+  </node>
+  <node label='drugbank:DB00924' id='217'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='131' y='84' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00924'/>
+  </node>
+  <node label='drugbank:DB00641' id='218'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='139' y='102' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00641'/>
+  </node>
+  <node label='drugbank:DB00762' id='219'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='105' y='167' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00762'/>
+  </node>
+  <node label='drugbank:DB00532' id='220'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='160' y='53' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00532'/>
+  </node>
+  <node label='drugbank:DB05316' id='221'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='35' y='49' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB05316'/>
+  </node>
+  <node label='drugbank:DB00176' id='222'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='2' y='47' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00176'/>
+  </node>
+  <node label='drugbank:DB00273' id='223'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='61' y='190' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00273'/>
+  </node>
+  <node label='drugbank:DB00285' id='224'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='126' y='47' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00285'/>
+  </node>
+  <node label='drugbank:DB00370' id='225'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='156' y='192' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00370'/>
+  </node>
+  <node label='drugbank:DB01156' id='226'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='38' y='49' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01156'/>
+  </node>
+  <node label='drugbank:BE0003394' id='227'>
+    <att name='entity type' value='Target' />
+    <graphics type='rectangle' fill='3,169,244' x='48' y='62' h='20.0' w='80.0' cy:nodeLabel='drugbank:BE0003394'/>
+  </node>
+  <node label='drugbank:DB09286' id='228'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='38' y='171' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB09286'/>
+  </node>
+  <node label='drugbank:DB01621' id='229'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='137' y='7' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB01621'/>
+  </node>
+  <node label='drugbank:DB00949' id='230'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='24' y='134' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00949'/>
+  </node>
+  <node label='drugbank:DB00448' id='231'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='138' y='122' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00448'/>
+  </node>
+  <node label='drugbank:DB00339' id='232'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='29' y='29' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00339'/>
+  </node>
+  <edge label='drugbank:DB00454 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='34' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00619 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='186' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00501 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='179' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00514 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='77' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB08810 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='25' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00285 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='224' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01072 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='64' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01098 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='91' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01238 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='111' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB05492 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='212' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00574 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='15' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='OBSESSIVE-COMPULSIVE DISORDER; OCD [omim:164230] (MultiPartiteNetwork_vocabulary:Disease-Associated-Target) drugbank:BE0003536' source='164' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Disease-Associated-Target' />
+    <graphics width='1' fill='0,0,0' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01076 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='4' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00625 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='104' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00476 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='1' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00215 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='190' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB05047 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003394' source='192' target='227'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01242 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='123' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00726 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='39' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00448 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='231' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00330 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='106' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB06148 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='200' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01171 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='88' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01472 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='132' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00334 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='42' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01114 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='81' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00794 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='43' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00247 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='16' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01221 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='172' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00191 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='93' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00589 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='57' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB05316 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='221' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01142 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='195' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00625 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='104' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00370 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003394' source='225' target='227'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01097 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='80' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01175 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='37' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00215 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='190' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00334 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='42' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB04946 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='193' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00852 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='62' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01151 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='36' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00762 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0001054' source='219' target='142'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01151 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003394' source='36' target='227'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00679 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='138' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00252 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='158' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00669 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='167' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB06216 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='69' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00215 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='190' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00582 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='79' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='OBSESSIVE-COMPULSIVE DISORDER; OCD [omim:164230] (MultiPartiteNetwork_vocabulary:Disease-Associated-Target) drugbank:BE0003394' source='164' target='227'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Disease-Associated-Target' />
+    <graphics width='1' fill='0,0,0' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01142 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='195' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00734 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0001054' source='105' target='142'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01576 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='114' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00752 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='139' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00829 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='130' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00184 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003394' source='51' target='227'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01171 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='88' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00715 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='55' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB05743 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='161' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00193 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='5' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01076 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='4' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01124 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='174' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00472 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='65' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB04946 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='193' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00246 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='0' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00977 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='116' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00363 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0001054' source='63' target='142'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01032 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='185' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00734 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='105' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00208 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='150' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01175 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='37' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB09304 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='21' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB09286 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='228' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01488 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='70' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01175 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003394' source='37' target='227'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00396 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='140' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00175 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='213' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01267 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='143' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00540 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003394' source='48' target='227'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00334 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='42' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00328 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='135' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00571 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='86' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB04896 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='147' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01356 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='82' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00531 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='207' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB06148 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='200' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01403 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='215' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01224 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='94' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB08927 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='159' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00363 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='63' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB09016 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='115' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00264 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='155' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB05026 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='120' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00933 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='54' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00142 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0001054' source='141' target='142'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00175 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='213' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01242 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='123' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00641 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='218' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00656 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='151' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00321 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='32' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01442 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='99' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00176 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='222' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00811 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='40' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00339 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='232' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00734 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='105' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00502 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='74' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01621 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='229' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00736 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='11' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00927 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='145' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01174 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='20' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00176 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='222' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB06700 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='176' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB09223 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='100' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00333 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='35' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00669 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='167' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00656 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='151' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01166 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='196' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00128 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0001054' source='41' target='142'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01095 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='169' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00641 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='218' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00477 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='14' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00268 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='85' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00656 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='151' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00321 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='32' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01151 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='36' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00726 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='39' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00197 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='182' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB06144 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='30' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01622 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='128' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00409 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='12' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01274 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='183' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00849 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='188' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00182 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='23' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00777 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='152' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB04115 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='56' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB04832 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='28' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB08810 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='25' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00446 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='205' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00333 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003394' source='35' target='227'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00285 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='224' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00805 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='133' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00734 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='105' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01006 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='95' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB06700 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='176' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00715 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='55' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB04908 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='107' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01356 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003394' source='82' target='227'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01614 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='175' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00904 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='165' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB06288 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='13' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00641 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='218' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00734 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='105' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01618 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='108' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00285 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='224' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00502 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='74' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00625 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='104' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00370 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='225' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00472 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='65' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00564 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='44' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB05079 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='24' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB06077 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='118' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00635 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='78' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00285 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='224' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB06700 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='176' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB09223 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='100' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01076 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='4' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00805 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='133' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00641 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='218' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00413 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='136' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00363 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='63' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01045 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='197' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00864 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='178' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00717 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='202' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00949 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='230' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB06144 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='30' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01452 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003394' source='71' target='227'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB04946 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='193' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01454 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='98' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01577 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003394' source='9' target='227'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00696 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='31' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00321 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='32' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00363 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='63' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01395 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='184' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00334 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='42' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00656 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='151' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00472 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003394' source='65' target='227'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00246 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='0' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01104 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='110' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01403 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='215' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB05688 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='6' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00363 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='63' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB08865 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='97' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00175 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='213' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB06148 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='200' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB06209 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='26' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00468 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='58' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB04836 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='33' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB09016 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='115' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01403 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='215' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00532 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='220' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01076 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='4' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB06204 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='68' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00934 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='191' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00477 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='14' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00675 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='194' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01242 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='123' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01624 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='144' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB04599 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='59' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01175 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='37' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00540 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='48' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01267 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='143' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00641 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='218' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB06144 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='30' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00349 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='203' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00476 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='1' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB09128 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='73' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00907 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='83' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00370 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='225' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB09223 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='100' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00285 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='224' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00715 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='55' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01156 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='226' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00682 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='3' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00945 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='61' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01175 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='37' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01036 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='126' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01171 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='88' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00176 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='222' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01008 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='112' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB08815 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='187' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00215 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003394' source='190' target='227'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='OBSESSIVE-COMPULSIVE DISORDER; OCD [omim:164230] (MultiPartiteNetwork_vocabulary:Disease-Associated-Target) drugbank:BE0001054' source='164' target='142'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Disease-Associated-Target' />
+    <graphics width='1' fill='0,0,0' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01129 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='113' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01149 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='67' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01069 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='198' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01418 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='146' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB09225 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='72' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01131 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='214' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00370 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='225' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01238 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='111' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='OBSESSIVE-COMPULSIVE DISORDER; OCD [omim:164230] (MultiPartiteNetwork_vocabulary:Disease-Associated-Target) drugbank:BE0000451' source='164' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Disease-Associated-Target' />
+    <graphics width='1' fill='0,0,0' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01355 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='66' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01267 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='143' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01623 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='127' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01142 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='195' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01239 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='10' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01454 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='98' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB06626 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='163' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB08810 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='25' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00289 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='168' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB09304 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='21' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01151 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='36' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00543 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='211' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00215 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='190' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01050 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='89' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01242 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='123' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00625 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='104' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00997 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='177' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00215 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='190' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00444 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='180' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00476 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='1' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00988 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='101' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00758 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='102' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB09128 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='73' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00477 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='14' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00370 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='225' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00734 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='105' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00482 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='157' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB06700 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='176' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00420 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='181' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01105 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='7' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01242 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='123' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01191 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='154' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00726 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='39' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB09167 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='201' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01224 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='94' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00458 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='206' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00273 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='223' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00175 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='213' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB06148 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='200' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00924 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='217' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00745 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='84' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00246 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='0' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01200 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='92' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB04889 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='75' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00247 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='16' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00434 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='209' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00408 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='117' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00543 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='211' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB06216 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='69' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01363 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='124' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00472 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='65' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00334 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0001054' source='42' target='142'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00395 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='122' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB09286 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='228' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01171 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='88' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01149 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='67' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01224 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='94' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01104 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003394' source='110' target='227'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00476 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='1' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00458 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='206' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01026 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='160' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00196 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='50' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00669 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003394' source='167' target='227'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB09304 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='21' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB08815 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='187' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='OBSESSIVE-COMPULSIVE DISORDER; OCD [omim:164230] (MultiPartiteNetwork_vocabulary:Disease-Associated-Target) drugbank:BE0004881' source='164' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Disease-Associated-Target' />
+    <graphics width='1' fill='0,0,0' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB09225 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='72' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00669 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='167' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB08918 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='109' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00776 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='134' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00213 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='46' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01186 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='22' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00875 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='166' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00344 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='17' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB05227 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='47' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00714 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='38' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00598 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='18' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01238 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='111' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00751 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='121' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00338 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='216' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB04884 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='149' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01356 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='82' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00734 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003394' source='105' target='227'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01224 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='94' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01149 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='67' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00715 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003394' source='55' target='227'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01079 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='52' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB06701 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='129' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00960 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='171' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB09225 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='72' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00715 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='55' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01104 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='110' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01392 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='19' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00313 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='210' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB06216 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='69' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01356 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='82' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00458 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='206' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='OBSESSIVE-COMPULSIVE DISORDER; OCD [omim:164230] (MultiPartiteNetwork_vocabulary:Disease-Associated-Target) drugbank:BE0004957' source='164' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Disease-Associated-Target' />
+    <graphics width='1' fill='0,0,0' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00715 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='55' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB09286 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='228' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01254 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='125' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00370 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='225' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01175 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='37' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00247 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='16' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00476 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='1' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00604 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='27' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00472 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='65' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00331 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003394' source='2' target='227'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00422 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='208' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB09128 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004881' source='73' target='148'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00022 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='156' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00661 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='49' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB06684 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='137' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01442 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='99' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00514 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='77' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='OBSESSIVE-COMPULSIVE DISORDER; OCD [omim:164230] (MultiPartiteNetwork_vocabulary:Disease-Associated-Target) drugbank:BE0000749' source='164' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Disease-Associated-Target' />
+    <graphics width='1' fill='0,0,0' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00238 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='60' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00248 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='29' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00408 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='117' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01076 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='4' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB08815 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='187' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00908 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='96' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00540 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='48' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00843 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='103' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01149 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='67' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00898 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003394' source='153' target='227'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00951 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='87' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00176 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='222' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB04842 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='119' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01577 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='9' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB05687 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='53' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00363 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='63' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00227 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='189' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00472 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='65' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00579 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='204' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00176 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0004957' source='222' target='131'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00220 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='90' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB01136 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0003536' source='173' target='45'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB05422 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000749' source='8' target='170'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB06016 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='162' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='2' fill='255,0,0' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00574 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='15' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='2' fill='255,0,0' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB09167 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='201' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='2' fill='255,0,0' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00623 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000451' source='76' target='199'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='2' fill='255,0,0' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+</graph>

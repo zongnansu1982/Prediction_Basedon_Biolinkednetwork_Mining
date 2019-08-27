@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<graph id='52' label='62' directed='1' cy:documentVersion='3.0' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:cy='http://www.cytoscape.org' xmlns='http://www.cs.rpi.edu/XGMML'>
+  <node label='drugbank:BE0000046' id='0'>
+    <att name='entity type' value='Target' />
+    <graphics type='rectangle' fill='3,169,244' x='101' y='145' h='20.0' w='80.0' cy:nodeLabel='drugbank:BE0000046'/>
+  </node>
+  <node label='drugbank:DB00114' id='1'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='68' y='136' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00114'/>
+  </node>
+  <node label='drugbank:DB04551' id='2'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='94' y='68' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB04551'/>
+  </node>
+  <node label='drugbank:DB02726' id='3'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='61' y='197' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB02726'/>
+  </node>
+  <node label='drugbank:DB00145' id='4'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='4' y='89' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00145'/>
+  </node>
+  <node label='Anosmia (1 patient)  [omim_resource:d66710b05dc8a6365c3a7d1018778fde]' id='5'>
+    <att name='entity type' value='Disease' />
+    <graphics type='hexagon' fill='255,255,0' x='57' y='98' h='20.0' w='80.0' cy:nodeLabel='Anosmia (1 patient)  [omim_resource:d66710b05dc8a6365c3a7d1018778fde]'/>
+  </node>
+  <node label='drugbank:DB00119' id='6'>
+    <att name='entity type' value='Drug' />
+    <graphics type='ellipse' fill='0,255,0' x='76' y='112' h='20.0' w='80.0' cy:nodeLabel='drugbank:DB00119'/>
+  </node>
+  <node label='drugbank:BE0000898' id='7'>
+    <att name='entity type' value='Target' />
+    <graphics type='rectangle' fill='3,169,244' x='160' y='143' h='20.0' w='80.0' cy:nodeLabel='drugbank:BE0000898'/>
+  </node>
+  <edge label='drugbank:DB00119 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000046' source='6' target='0'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='Anosmia (1 patient)  [omim_resource:d66710b05dc8a6365c3a7d1018778fde] (MultiPartiteNetwork_vocabulary:Disease-Associated-Target) drugbank:BE0000046' source='5' target='0'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Disease-Associated-Target' />
+    <graphics width='1' fill='0,0,0' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB02726 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000046' source='3' target='0'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00145 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000898' source='4' target='7'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB04551 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000046' source='2' target='0'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='1' fill='169,169,169' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='Anosmia (1 patient)  [omim_resource:d66710b05dc8a6365c3a7d1018778fde] (MultiPartiteNetwork_vocabulary:Disease-Associated-Target) drugbank:BE0000898' source='5' target='7'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Disease-Associated-Target' />
+    <graphics width='1' fill='0,0,0' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+  <edge label='drugbank:DB00114 (MultiPartiteNetwork_vocabulary:Drug-Target) drugbank:BE0000898' source='1' target='7'>
+    <att name='relationship type' value='MultiPartiteNetwork_vocabulary:Drug-Target' />
+    <graphics width='2' fill='255,0,0' cy:edgeLineType='SOLID' cy:targetArrow='0' cy:edgeLabel=''/>
+  </edge>
+</graph>
